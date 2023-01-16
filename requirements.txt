@@ -1,6 +1,7 @@
+featurecloud
 bottle
 numpy
 jsonpickle
 pyyaml
 pandas
-sklearn
+scikit-learn
